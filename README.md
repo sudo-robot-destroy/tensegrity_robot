@@ -51,6 +51,11 @@ For the first design, I'll just copy the wheels from [1] as much as possible, he
 * Carbon fiber rods: [400 mm x 10 from Fielect for $12.99](https://www.amazon.com/Fielect-Diameter-Carbon-Straight-Airplane/dp/B083LC917H/ref=sr_1_1?crid=8SJAFYCP4G14&dib=eyJ2IjoiMSJ9.bYibJqgoi3mkfRk6BZZjEg.0A8NhV84t7Ulu0X0udCyh-6fuVbvYyuh7B3RlN_4nkc&dib_tag=se&keywords=B083LC917H&qid=1724028988&sprefix=b083lc917h%2Caps%2C112&sr=8-1)  
 * TPU, 85A: [Siraya Tech Flex TPU for $31.99](https://www.amazon.com/Siraya-Tech-Flex-Filament-Moisture-Resistant/dp/B0CP213ZMG/ref=sr_1_4?crid=2P2QDYPA6NI2O&dib=eyJ2IjoiMSJ9.1OVszLtutl2C0lBZMNOByStRyXq34ieZhvdqGd2L8pRA4_tO247coIwjTxtk9Ql_zMECo4W9dawgCc-nvOIwvZGSc1Rx3wTbBCmtBdkAOVccCECbczInfado6Ex-pgNUx0dP8IqEJXepjA1_91v11LI6CB6wadgyYMqdWfFdDEyvkWsD0KPWX6ZN284Oe2OySjReJaKD4fCh2PSDQHsTtuZM24o-VVH0PGfCF6MkmkJJtgZdJ358cSx-rR-ZsIDXFv7wFGsuqqDmCKFiMzaViHzaOoPfKeGBsnFUKc54OpU.nBBuHVxrA8AR0x9tfsa4DmA__dW5v1xffexHGbtQRQc&dib_tag=se&keywords=3d%2Bprinter%2BTPU%2Bfilament%2B85a&qid=1724029373&refinements=p_36%3A-4200%2Cp_72%3A1248921011%2Cp_85%3A2470955011&rnid=2470954011&rps=1&s=industrial&sprefix=3d%2Bprinter%2Btpu%2Bfilament%2B85a%2Caps%2C123&sr=1-4&th=1) 
 
+## My custom design notes
+* For the end-caps for the rods use crush ribs. 
+  * The hole should be drafted at about 2 degrees, the ribs should not be drafted. 
+  * The ribs should interfer with the rod by .254 mm and that is the dimensions of the radius of it. 
+  * The bottom of the draft hole is the same dimension as the rod. 
 ## TO-DOs:
 * Pick out a TPU filament for the Bambu X1
 
