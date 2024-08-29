@@ -69,6 +69,9 @@ For the first design, I'll just copy the wheels from [1] as much as possible, he
   * The bottom of the draft hole is the same dimension as the rod. 
 ## TO-DOs:
 * Pick out a TPU filament for the Bambu X1
+* The cap cap should click into the cap
+* Add pic of first ball
+* move rough notes to a second doc
 
 ## References:
 [1] "A Shape-Changing Wheeling and Jumping Robot Using Tensegrity Wheels and Bistable Mechanism" https://jiefengsun.github.io/pdfs/spiegel2023shape.pdf
