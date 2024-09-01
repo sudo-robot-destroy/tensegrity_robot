@@ -62,16 +62,11 @@ For the first design, I'll just copy the wheels from [1] as much as possible, he
   * Used 3 walls but mainly just to do a solid infill that way. 
   * 8 per wheel? 
 
-## My custom design notes
-* For the end-caps for the rods use crush ribs. 
-  * The hole should be drafted at about 2 degrees, the ribs should not be drafted. 
-  * The ribs should interfer with the rod by .254 mm and that is the dimensions of the radius of it. 
-  * The bottom of the draft hole is the same dimension as the rod. 
 ## TO-DOs:
-* Pick out a TPU filament for the Bambu X1
-* The cap cap should click into the cap
 * Add pic of first ball
 * move rough notes to a second doc
+* Pick out motor
+* Choose belt system (buy or print)
 
 ## References:
 [1] "A Shape-Changing Wheeling and Jumping Robot Using Tensegrity Wheels and Bistable Mechanism" https://jiefengsun.github.io/pdfs/spiegel2023shape.pdf
