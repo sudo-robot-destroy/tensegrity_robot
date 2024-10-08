@@ -41,7 +41,7 @@ For the first design, I'll just copy the wheels from [1] as much as possible, he
 * Cable: Nylon
 
 ### Drive train:
-* Drive motors: [Pololu: 4794](https://www.pololu.com/product/4794) with 3:1 extra
+* Drive motors: [Pololu: 4794](https://www.pololu.com/product/4794) with 3:1 extra  
 * Stall torque: 5.5 kgcm x 3 = 16.5 kgcm
 * Drive bearings: [Uxcell: 626-2RS](https://www.amazon.com/uxcell-626-2RS-Bearing-6x19x6mm-Bearings/dp/B07TLKGDJ6/ref=sr_1_1?adgrpid=1344704363644125&dib=eyJ2IjoiMSJ9.x1zuH9vG9i6w9yyZxxelhKFHBJv1FImEytNKyra2iieqsGlIQHr_YcpgpsRq1ntwg2POE2qNnk7kJOlOErjvGNUfOu9bqDvpLv7MIL15sLazMoBLB1VN6tKKrK0EBtonTXtCbzyRt-Rn_pv_APE44Cb99HefonlcycK84kqFuoWM4p9zmjguNTPugiKeqFdpJQCNBz4dlHA4jKkQlb5CCmtBk0v0Ujq-rbDEv48NmLUkHT34n9R9nwxNZ6WYRMqnDDO1PjYLvGSuXfwMlV-O1V8TBxoAKj9OkR3AmjHwWFo.bwMaQiG9b17b8zCjj_6ESoTV7-W4cOivLljPzqzLtxg&dib_tag=se&hvadid=84044284024935&hvbmt=bp&hvdev=c&hvlocphy=82074&hvnetw=o&hvqmt=e&hvtargid=kwd-84045029114616%3Aloc-190&hydadcr=3699_13538776&keywords=uxcell%2B626-2rs&msclkid=6f97d1b3fdcb1997ce27b7719cfc8239&qid=1724015292&sr=8-1&th=1) 
 * Battery: 2S Lipo
