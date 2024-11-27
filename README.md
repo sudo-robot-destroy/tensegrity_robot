@@ -62,12 +62,17 @@ For the first design, I'll just copy the wheels from [1] as much as possible, he
   * Used 3 walls but mainly just to do a solid infill that way. 
   * 8 per wheel? 
 
+## Test prints
+Here was the first tensegrity ball I made - I was able to throw it on concrete as hard as I can without any damage:
+
+![alt text](images/test_print_wheel.jpg)
+
 ## TO-DOs:
-* Add pic of first ball
 * move rough notes to a second doc
 * Pick out motor
-* Choose belt system (buy or print)
-
+* Buy GT2 belt components
+* Make the wheel hub part
+  
 ## References:
 [1] "A Shape-Changing Wheeling and Jumping Robot Using Tensegrity Wheels and Bistable Mechanism" https://jiefengsun.github.io/pdfs/spiegel2023shape.pdf
 
