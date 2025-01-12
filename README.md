@@ -56,6 +56,7 @@ For the first design, I'll just copy the wheels from [1] as much as possible, he
   * 12 per wheel so 48 total...maybe, unless there are special ones that connect to hubs. 
   * No supports
   * Standard .2 profile
+  * Profile for tight rod fit starts with a 2mm hole, then a 1 degree draft. The crushed ribs go .25 mm into the 2mm rods. It might be a little too tight, I have to hammer them in.  
   * Currently printed with PLA 
 * Cable section
   * TPU 85A
@@ -68,8 +69,6 @@ Here was the first tensegrity ball I made - I was able to throw it on concrete a
 ![alt text](images/test_print_wheel.jpg)
 
 ## TO-DOs:
-* move rough notes to a second doc
-* Pick out motor
 * Buy GT2 belt components
 * Make the wheel hub part
   
