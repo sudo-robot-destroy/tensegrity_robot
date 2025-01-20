@@ -70,6 +70,12 @@ Here was the first tensegrity ball I made - I was able to throw it on concrete a
 
 ## TO-DOs:
 * Buy GT2 belt components
+  * wheel span is 200 mm so belts need to be around 100mm each. 
+  * 6mm wide
+  * 2mm pitch.  
+  * It looks like the list them by the outer perimeter. I estimate 243.33 for a 20T pulley so call it 250mm
+  * That'd be a 250-2GT-6 belt. Ordered 12Jan2025
+  * 20 tooth is the popular small pulley size. 
 * Make the wheel hub part
   
 ## References:
